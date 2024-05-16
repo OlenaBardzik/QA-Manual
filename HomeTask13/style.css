@@ -1,0 +1,49 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.social_media_icon {
+    width: 32px;
+    height: 32px;
+    padding: 20px 10px;
+}
+
+.store_item {
+    width: 380px;
+    height: 400px
+}
+
+.content_center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar_item {
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    color: black;
+}
+
+.navbar_item:hover {
+    border-bottom: 2px solid rgb(106, 105, 105);
+    box-sizing: border-box;
+}
+
+.content_width {
+    width: 700px;
+    margin: 10px auto;
+    text-align:justify;
+}
+
+.discography_item {
+    font-size: 13px;
+    text-align: center;
+}
